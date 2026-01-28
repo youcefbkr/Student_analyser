@@ -1,0 +1,6 @@
+Youcef,20,12
+Zenji,23,13
+Bilel,20,5
+NINO,23,34
+Sarah,10,11
+Ahmed,43,-5
